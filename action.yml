@@ -1,7 +1,7 @@
 name: "Podcast Generator"
 author: "Ray"
 description: "Generates a run"
-run:
+runs:
   using: "docker"
   image: "Dockerfile"
 branding:
